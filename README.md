@@ -11,6 +11,7 @@
 ## Project Overview
 This project analyzes customer purchasing behavior, retention trends,
 membership performance, and satisfaction metrics for an e-commerce company.
+<img width="1320" height="744" alt="dashboard" src="https://github.com/user-attachments/assets/30a9c749-f594-47d5-bfcc-6c7b51c412e0" />
 
 ## Key Features
 - Customer segmentation
